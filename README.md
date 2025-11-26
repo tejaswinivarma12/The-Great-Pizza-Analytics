@@ -38,6 +38,8 @@ My goal was to analyze pizza sales data and convert raw data into actionable bus
 6. Pizzas never ordered (`LEFT/RIGHT JOIN`).
 7. Price differences between different sizes of the same pizza (`SELF JOIN`).
 
+take a look at the project report: https://github.com/tejaswinivarma12/The-Great-Pizza-Analytics/blob/main/THE%20GREAT.pdf
+
 ## 🔍 Insights Discovered
 - Classic pizzas are the **most sold category**
 - Identified pizzas **never ordered**
